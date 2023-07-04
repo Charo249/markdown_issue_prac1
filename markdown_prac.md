@@ -43,7 +43,8 @@
 # リンク
 ウェブ関連技術の標準化は [World Wide Web Consortium (W3C)](http://www.w3.org/) などによって行われています。
 
-[あ](images/33.png)
+# 画像リンク
+![あ](images/33.png)
 
 # 強調
 あい*う*えお
@@ -56,3 +57,12 @@ public static void main(String []){
     System.out.println("こんにちは");
 }
 ```
+
+# 水平線
+***
+
+# 表
+|見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |
