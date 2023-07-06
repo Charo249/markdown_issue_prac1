@@ -40,4 +40,6 @@
 
 6. 出来上がり
 
-引用元：https://cookpad.com/recipe/4021261
+### 引用元：
+こちらのサイトからの引用、こちらの方が図がついていて見やすいです
+https://cookpad.com/recipe/4021261
